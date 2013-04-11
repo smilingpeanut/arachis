@@ -1,0 +1,32 @@
+/*
+Theme Name:     Arachis
+Theme URI:      http: //smilingpeanut.com/
+Description:    Onyx 
+Author:         Chris Lanphear
+Author URI:     http: //smilingpeanut.com/
+Template:       the-bootstrap
+Version:        1.0
+*/
+
+@import url("../the-bootstrap/style.css");
+@import url('./icons.css');
+
+table .label {
+	background-color: #999;
+	color: #fff;
+}
+
+table .label-inverse {
+	background-color: #000;
+	color: #fff;
+}
+
+table .label-success {
+	background-color: #468847;
+	color: #fff;
+}
+
+table .label-warning {
+	background-color: #F89406;
+	color: #fff;
+}
